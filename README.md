@@ -1,4 +1,4 @@
-#github pages: https://jwu7-bot.github.io/SimonGame/
+# github pages: https://jwu7-bot.github.io/SimonGame/
 
 # Simon Game 
 
