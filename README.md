@@ -1,4 +1,4 @@
-# Simon Game 🎵💡
+# Simon Game 
 
 A web-based memory game inspired by the classic **Simon Game**.  
 The goal is to repeat an ever-growing sequence of button presses. Each round, the game adds a new random color to the pattern, and the player must click the buttons in the correct order to advance.
